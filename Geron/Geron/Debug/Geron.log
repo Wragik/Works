@@ -1,0 +1,3 @@
+﻿  Geron.cpp
+T:\progran\Geron\Geron\Geron.cpp(8,18): warning C4101: d: неиспользованная локальная переменная
+  Geron.vcxproj -> T:\progran\Geron\Debug\Geron.exe

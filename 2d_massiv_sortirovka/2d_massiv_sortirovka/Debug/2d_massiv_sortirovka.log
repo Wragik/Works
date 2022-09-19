@@ -1,0 +1,4 @@
+﻿  2d_massiv_sortirovka.cpp
+T:\progran\2d_massiv_sortirovka\2d_massiv_sortirovka\2d_massiv_sortirovka.cpp(45,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+T:\progran\2d_massiv_sortirovka\2d_massiv_sortirovka\2d_massiv_sortirovka.cpp(52,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  2d_massiv_sortirovka.vcxproj -> T:\progran\2d_massiv_sortirovka\Debug\2d_massiv_sortirovka.exe

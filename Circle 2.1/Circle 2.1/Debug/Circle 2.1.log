@@ -1,0 +1,4 @@
+﻿  Circle 2.1.cpp
+T:\progran\Circle 2.1\Circle 2.1\Circle 2.1.cpp(1,2): error C2059: синтаксическая ошибка: while
+T:\progran\Circle 2.1\Circle 2.1\Circle 2.1.cpp(2,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+T:\progran\Circle 2.1\Circle 2.1\Circle 2.1.cpp(2,2): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
